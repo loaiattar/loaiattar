@@ -28,3 +28,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/loai-elattar-197385105/)  
 - 📬 loaiattar@gmail.com
+
+  ![Loai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loaiattar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loaiattar&layout=compact&theme=radical)
+
